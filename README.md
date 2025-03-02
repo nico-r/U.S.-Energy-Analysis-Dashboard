@@ -1,4 +1,4 @@
-# U.S.-Energy-Analysis-Dashboard
+# 📊 U.S.-Energy-Analysis-Dashboard
 
 ## Overview
 
